@@ -1,0 +1,10 @@
+USE SupplyChain;
+GO
+CREATE SCHEMA stg;
+GO
+CREATE SCHEMA clean;
+GO
+CREATE SCHEMA mart;
+GO
+CREATE SCHEMA ml;
+GO

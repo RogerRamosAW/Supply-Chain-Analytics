@@ -1,0 +1,5 @@
+touch data/raw/.gitkeep
+touch sql/.gitkeep
+touch python/.gitkeep
+touch powerbi/.gitkeep
+touch docs/.gitkeep
